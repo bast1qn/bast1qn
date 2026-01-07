@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Bastian+Giersch;Fachinformatiker+%26+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Bastian+Giersch;Fachinformatiker+%26+Developer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,41 +27,40 @@
 <br>
 
 <table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <h3>🚀 The Tech Stack</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,html,css" />
-        </a>
-        <br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,docker,nginx,proxmox,git,mysql" />
-        </a>
-        <br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,idea,github,discord" />
-        </a>
-      </p>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>⚡ Quick Facts</h3>
-      <ul>
-        <li><b>HomeLab:</b> Intel NUC Cluster running Proxmox & Docker Swarm.</li>
-        <li><b>Focus:</b> React Ecosystem & Enterprise Linux Administration.</li>
-        <li><b>Tools:</b> Nexus, Adminer, Custom AI Workflows.</li>
-        <li><b>Philosophy:</b> "Automate everything."</li>
-      </ul>
-      <br>
-      <h3>🔥 Working on</h3>
-      <ul>
-        <li>Scaling <b>RagePvP</b> Infrastructure.</li>
-        <li>Developing <b>Lotion</b> (Self-hosted Notion).</li>
-        <li>Client Projects @ <b>Agrofert</b> & Freelance.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<h3>🚀 The Tech Stack</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,html,css" />
+</a>
+<br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,proxmox,git,mysql" />
+</a>
+<br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,idea,github,discord" />
+</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ Quick Facts</h3>
+<ul>
+<li><b>HomeLab:</b> Intel NUC Cluster (Proxmox & Docker).</li>
+<li><b>Focus:</b> React Ecosystem & Linux Admin.</li>
+<li><b>Tools:</b> Nexus, Adminer, Custom AI Workflows.</li>
+<li><b>Philosophy:</b> "Automate everything."</li>
+</ul>
+<br>
+<h3>🔥 Working on</h3>
+<ul>
+<li>Scaling <b>RagePvP</b> Infrastructure (1.21.8).</li>
+<li>Developing <b>Lotion</b> (Self-hosted Notion).</li>
+<li>Client Projects @ <b>Agrofert</b> & Freelance.</li>
+</ul>
+</td>
+</tr>
 </table>
 
 <br>
