@@ -3,24 +3,26 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bast1qn&label=PROFILE+VIEWS&color=bd00ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bast1qn?label=FOLLOWERS&style=for-the-badge&color=00c3ff&labelColor=1a1b26" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c3ff?style=for-the-badge&labelColor=1a1b26" alt="Status" />
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=bast1qn&label=PROFILE+VIEWS&color=bd00ff&style=for-the-badge)](https://github.com/bast1qn)
+  [![Followers](https://img.shields.io/github/followers/bast1qn?label=FOLLOWERS&style=for-the-badge&color=00c3ff&labelColor=1a1b26)](https://github.com/bast1qn?tab=followers)
+  [![Status](https://img.shields.io/badge/STATUS-ONLINE-00c3ff?style=for-the-badge&labelColor=1a1b26)](https://github.com/bast1qn)
+
 </div>
 
 <br>
 
-<div align="center" style="margin-top: -10px;">
+<div align="center">
   <a href="https://bastian-giersch.de">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=00c3ff" height="38" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=00c3ff" height="40" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:deine-email@beispiel.de">
-    <img src="https://img.shields.io/badge/📧_CONTACT-Email_Me-1a1b26?style=for-the-badge&logo=gmail&logoColor=bd00ff" height="38" />
+    <img src="https://img.shields.io/badge/📧_CONTACT-Email_Me-1a1b26?style=for-the-badge&logo=gmail&logoColor=bd00ff" height="40" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://ragepvp.de">
-    <img src="https://img.shields.io/badge/⚔️_RAGE_PVP-Play_Now-1a1b26?style=for-the-badge&logo=minecraft&logoColor=00c3ff" height="38" />
+    <img src="https://img.shields.io/badge/⚔️_RAGE_PVP-Play_Now-1a1b26?style=for-the-badge&logo=minecraft&logoColor=00c3ff" height="40" />
   </a>
 </div>
 
@@ -38,298 +40,392 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bast1qn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title_color=00c3ff&icon_color=bd00ff&text_color=ffffff" />
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+## <div align="center">👨‍💻 ABOUT ME</div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
         <br><br>
-        <strong style="color: #00c3ff; font-size: 20px;">Bastian Giersch</strong>
+        <h3>💫 Personal</h3>
         <br>
-        <span style="color: #a9b1d6;">18 years old</span>
+        <b>Bastian Giersch</b>
+        <br>
+        📅 18 years old
         <br><br>
-        <span style="color: #bd00ff;">💼 Fachinformatiker @ Agrofert</span>
+        💼 Fachinformatiker @ Agrofert
         <br>
-        <span style="color: #00c3ff;">📍 Germany 🇩🇪</span>
+        📍 Germany 🇩🇪
       </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" />
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" />
         <br><br>
-        <strong style="color: #bd00ff; font-size: 20px;">Infrastructure</strong>
+        <h3>🖥️ Infrastructure</h3>
         <br>
-        <span style="color: #a9b1d6;">Intel NUC i7 (5.0GHz)</span>
+        ⚡ Intel NUC i7 (5.0GHz)
         <br>
-        <span style="color: #a9b1d6;">Proxmox HA + Docker Swarm</span>
+        🔧 Proxmox HA + Docker Swarm
         <br>
-        <span style="color: #a9b1d6;">10Gbit Network</span>
-        <br>
-        <span style="color: #00c3ff;">🟢 99.9% Uptime</span>
+        🌐 10Gbit Network
+        <br><br>
+        <b>🟢 99.9% Uptime</b>
       </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" />
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" />
         <br><br>
-        <strong style="color: #00c3ff; font-size: 20px;">Expertise</strong>
+        <h3>🚀 Expertise</h3>
         <br>
-        <span style="color: #a9b1d6;">⚡ Full Stack Development</span>
+        ⚡ Full Stack Development
         <br>
-        <span style="color: #a9b1d6;">🛠️ DevOps & Infrastructure</span>
+        🛠️ DevOps & Infrastructure
         <br>
-        <span style="color: #a9b1d6;">🤖 AI/ML Integration</span>
-        <br>
-        <span style="color: #a9b1d6;">🏗️ System Architecture</span>
+        🤖 AI/ML Integration
+        <br><br>
+        🏗️ System Architecture
       </td>
     </tr>
   </table>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br>
 
-<div align="center">
-  <h2 style="color: #ffffff; letter-spacing: 6px; font-size: 36px; text-transform: uppercase;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" />
-    DEPLOYMENT ARSENAL
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" />
-  </h2>
-</div>
+## <div align="center">🛠️ TECH STACK & TOOLS</div>
+
+<br>
 
 <div align="center">
-  <h3 style="color: #00c3ff; margin-top: 30px; font-size: 22px;">Frontend</h3>
+
+  ### 🎨 Frontend Development
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark&perline=8" />
 
-  <h3 style="color: #bd00ff; margin-top: 30px; font-size: 22px;">Backend & DevOps</h3>
+  <br><br>
+
+  ### ⚙️ Backend & DevOps
   <img src="https://skillicons.dev/icons?i=java,nodejs,express,docker,nginx,linux,proxmox,git&theme=dark&perline=8" />
 
-  <h3 style="color: #00c3ff; margin-top: 30px; font-size: 22px;">Tools & Environment</h3>
+  <br><br>
+
+  ### 🔧 Tools & Environment
   <img src="https://skillicons.dev/icons?i=github,vscode,idea,postman,figma,notion,discord&theme=dark&perline=7" />
-</div>
 
-<br><br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <br>
 
 <div align="center">
-  <h2 style="color: #bd00ff; letter-spacing: 8px; font-size: 42px; text-shadow: 0 0 20px rgba(189, 0, 255, 0.8);">
-    ⚡ ACTIVE DEPLOYMENTS ⚡
-  </h2>
-  <p style="color: #a9b1d6; font-size: 18px; margin-top: 10px;">Production-grade applications serving thousands of users</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+## <div align="center">⚡ FEATURED PROJECTS</div>
+
+<div align="center">
+  <i>Production-grade applications serving thousands of users</i>
 </div>
 
 <br>
 
 <!-- RagePvP -->
+<details open>
+<summary>
+  <h3>⚔️ RAGE PVP - High-Performance Minecraft Network</h3>
+</summary>
+
+<br>
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(189, 0, 255, 0.15), rgba(0, 195, 255, 0.15)); border: 3px solid #bd00ff; border-radius: 18px; padding: 35px; margin: 25px auto; width: 92%; box-shadow: 0 0 40px rgba(189, 0, 255, 0.4), inset 0 0 30px rgba(189, 0, 255, 0.1);">
-    <h3 style="color: #bd00ff; font-size: 32px; margin-bottom: 20px; text-shadow: 0 0 10px rgba(189, 0, 255, 0.8);">
-      ⚔️ RAGE PVP
-      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff00?style=flat-square&labelColor=000000" style="margin-left: 15px;" />
-    </h3>
-    <p align="left" style="color: #e0e0e0; font-size: 17px; line-height: 2; margin: 20px 0;">
-      <strong style="color: #00c3ff; font-size: 19px;">🎮 HIGH-PERFORMANCE MINECRAFT SERVER ECOSYSTEM</strong><br>
-      Enterprise-grade PvP server infrastructure supporting <strong style="color: #bd00ff;">500+ concurrent players</strong> with real-time statistics,
-      advanced player management, and comprehensive admin dashboard. Features live server monitoring with <strong style="color: #00c3ff;">sub-100ms latency</strong>,
-      dynamic player rankings with ELO system, custom game modes (Bedwars, Skywars, 1v1), and fully automated CI/CD deployment pipeline.
-      Built for extreme scalability and performance on enterprise hardware with optimized networking and load balancing.
-      Custom plugin development with Java, Spigot API integration, and MySQL database for persistent player data.
-    </p>
-    <div align="left" style="margin-top: 25px;">
-      <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spigot-1.20-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white" />
-      <img src="https://img.shields.io/badge/Paper-1.20-00ADD8?style=for-the-badge&logo=minecraft&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </div>
-    <div align="left" style="margin-top: 20px;">
-      <img src="https://img.shields.io/badge/⚡_Real--time_Stats-Active-00c3ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/👥_500+_Players-Capacity-bd00ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🚀_<100ms-Latency-00ff00?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🔌_Custom_Plugins-Active-00c3ff?style=flat-square&labelColor=000000" />
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PLAYERS-500+-bd00ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LATENCY-<100ms-00c3ff?style=for-the-badge&labelColor=000000" />
 </div>
+
+<br>
+
+**🎮 Enterprise Minecraft Server Ecosystem**
+
+Enterprise-grade PvP server infrastructure supporting **500+ concurrent players** with real-time statistics, advanced player management, and comprehensive admin dashboard. Features live server monitoring with **sub-100ms latency**, dynamic player rankings with ELO system, custom game modes (Bedwars, Skywars, 1v1), and fully automated CI/CD deployment pipeline.
+
+**🔧 Technical Highlights:**
+- Custom plugin development with Java & Spigot API
+- MySQL database for persistent player data
+- Redis caching for lightning-fast performance
+- Docker containerization for scalability
+- Automated deployment pipeline
+
+<div align="center">
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-1.20-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-1.20-00ADD8?style=for-the-badge&logo=minecraft&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Features:**
+
+![Real-time](https://img.shields.io/badge/⚡_Real--time_Stats-Active-00c3ff?style=flat-square&labelColor=000000)
+![Capacity](https://img.shields.io/badge/👥_500+_Players-Capacity-bd00ff?style=flat-square&labelColor=000000)
+![Latency](https://img.shields.io/badge/🚀_<100ms-Latency-00ff00?style=flat-square&labelColor=000000)
+![Plugins](https://img.shields.io/badge/🔌_Custom_Plugins-Active-00c3ff?style=flat-square&labelColor=000000)
+
+</div>
+
+</details>
+
+<br>
 
 <!-- Nexus -->
+<details open>
+<summary>
+  <h3>🔧 NEXUS - Unified DevOps Platform</h3>
+</summary>
+
+<br>
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(0, 195, 255, 0.15), rgba(189, 0, 255, 0.15)); border: 3px solid #00c3ff; border-radius: 18px; padding: 35px; margin: 25px auto; width: 92%; box-shadow: 0 0 40px rgba(0, 195, 255, 0.4), inset 0 0 30px rgba(0, 195, 255, 0.1);">
-    <h3 style="color: #00c3ff; font-size: 32px; margin-bottom: 20px; text-shadow: 0 0 10px rgba(0, 195, 255, 0.8);">
-      🔧 NEXUS COMMAND CENTER
-      <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=flat-square&labelColor=000000" style="margin-left: 15px;" />
-    </h3>
-    <p align="left" style="color: #e0e0e0; font-size: 17px; line-height: 2; margin: 20px 0;">
-      <strong style="color: #bd00ff; font-size: 19px;">🛡️ UNIFIED DEVOPS & NETWORK MANAGEMENT PLATFORM</strong><br>
-      Military-grade admin dashboard providing <strong style="color: #00c3ff;">complete infrastructure control</strong> across distributed systems.
-      Real-time system monitoring (CPU/RAM/Disk/Network I/O), intelligent LAN scanner with automatic device discovery and fingerprinting,
-      advanced port scanner with vulnerability detection, multi-server orchestration with <strong style="color: #bd00ff;">centralized management</strong>.
-      Features include visual Nginx configurator with syntax validation, advanced YAML editor with IntelliSense,
-      Docker Compose generator with template library, IPAM (IP Address Management) with subnet calculator,
-      automated backup scheduler with encryption, comprehensive security tools suite (SQL injection tester, XSS checker, hash cracker),
-      and military-grade dead drop encrypted messaging system. Monitoring <strong style="color: #00c3ff;">15+ servers</strong> in production.
-    </p>
-    <div align="left" style="margin-top: 25px;">
-      <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-5.2.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-5.1.4-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Recharts-2.12-8884D8?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Framer_Motion-11.0-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-Active-blue?style=for-the-badge" />
-    </div>
-    <div align="left" style="margin-top: 20px;">
-      <img src="https://img.shields.io/badge/🖥️_15+_Servers-Monitored-00c3ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/⚡_Real--time-Monitoring-bd00ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🔒_Security_Tools-Active-00ff00?style=flat-square&labelColor=000000" />
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SERVERS-15+-00c3ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SECURITY-MILITARY_GRADE-bd00ff?style=for-the-badge&labelColor=000000" />
 </div>
+
+<br>
+
+**🛡️ Military-Grade DevOps & Network Management Platform**
+
+Unified admin dashboard providing **complete infrastructure control** across distributed systems. Real-time system monitoring (CPU/RAM/Disk/Network I/O), intelligent LAN scanner with automatic device discovery, advanced port scanner with vulnerability detection, and multi-server orchestration with **centralized management**.
+
+**🔧 Advanced Features:**
+- Visual Nginx configurator with syntax validation
+- Advanced YAML editor with IntelliSense
+- Docker Compose generator with template library
+- IPAM (IP Address Management) with subnet calculator
+- Automated backup scheduler with encryption
+- Comprehensive security tools suite
+- Military-grade encrypted messaging system
+
+<div align="center">
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.1.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-2.12-8884D8?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer_Motion-11.0-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Active-blue?style=for-the-badge)
+
+**Capabilities:**
+
+![Servers](https://img.shields.io/badge/🖥️_15+_Servers-Monitored-00c3ff?style=flat-square&labelColor=000000)
+![Monitoring](https://img.shields.io/badge/⚡_Real--time-Monitoring-bd00ff?style=flat-square&labelColor=000000)
+![Security](https://img.shields.io/badge/🔒_Security_Tools-Active-00ff00?style=flat-square&labelColor=000000)
+
+</div>
+
+</details>
+
+<br>
 
 <!-- Lotion -->
+<details open>
+<summary>
+  <h3>📝 LOTION - Collaborative Rich Text Editor</h3>
+</summary>
+
+<br>
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(189, 0, 255, 0.15), rgba(0, 195, 255, 0.15)); border: 3px solid #bd00ff; border-radius: 18px; padding: 35px; margin: 25px auto; width: 92%; box-shadow: 0 0 40px rgba(189, 0, 255, 0.4), inset 0 0 30px rgba(189, 0, 255, 0.1);">
-    <h3 style="color: #bd00ff; font-size: 32px; margin-bottom: 20px; text-shadow: 0 0 10px rgba(189, 0, 255, 0.8);">
-      📝 LOTION EDITOR
-      <img src="https://img.shields.io/badge/STATUS-STABLE-00ff00?style=flat-square&labelColor=000000" style="margin-left: 15px;" />
-    </h3>
-    <p align="left" style="color: #e0e0e0; font-size: 17px; line-height: 2; margin: 20px 0;">
-      <strong style="color: #00c3ff; font-size: 19px;">📄 NOTION-INSPIRED COLLABORATIVE RICH TEXT EDITOR</strong><br>
-      Professional-grade document editor with <strong style="color: #bd00ff;">enterprise collaboration features</strong>.
-      Advanced WYSIWYG editor powered by TipTap with intuitive drag & drop block reordering,
-      syntax-highlighted code blocks supporting <strong style="color: #00c3ff;">50+ programming languages</strong> with Lowlight,
-      advanced tables with cell merging and dynamic rows/columns, interactive task lists with checkbox persistence,
-      image uploads with drag-drop and paste support, smart link embedding with auto-preview,
-      real-time collaborative editing via WebSockets with <strong style="color: #bd00ff;">conflict resolution</strong>.
-      Customizable bubble menu UI with extensive formatting (bold, italic, underline, highlight, text colors, alignments),
-      slash commands for power users, and export to PDF/HTML/Markdown with pixel-perfect rendering.
-    </p>
-    <div align="left" style="margin-top: 25px;">
-      <img src="https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TipTap-3.14-000000?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-7.3.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/DnD_Kit-6.3-FF4154?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Lowlight-3.3-yellow?style=for-the-badge" />
-    </div>
-    <div align="left" style="margin-top: 20px;">
-      <img src="https://img.shields.io/badge/📝_50+_Languages-Supported-00c3ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🔄_Real--time-Collaboration-bd00ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/📤_Export-PDF/HTML/MD-00ff00?style=flat-square&labelColor=000000" />
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/STATUS-STABLE-00ff00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LANGUAGES-50+-bd00ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/COLLABORATION-REAL--TIME-00c3ff?style=for-the-badge&labelColor=000000" />
 </div>
+
+<br>
+
+**📄 Notion-Inspired Professional Document Editor**
+
+Professional-grade document editor with **enterprise collaboration features**. Advanced WYSIWYG editor powered by TipTap with intuitive drag & drop block reordering, syntax-highlighted code blocks supporting **50+ programming languages**, advanced tables with cell merging, interactive task lists, and real-time collaborative editing via WebSockets with **conflict resolution**.
+
+**✨ Premium Features:**
+- Customizable bubble menu with extensive formatting
+- Smart link embedding with auto-preview
+- Slash commands for power users
+- Export to PDF/HTML/Markdown
+- Image uploads with drag-drop support
+- Real-time collaboration
+
+<div align="center">
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TipTap](https://img.shields.io/badge/TipTap-3.14-000000?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.3.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![DnD Kit](https://img.shields.io/badge/DnD_Kit-6.3-FF4154?style=for-the-badge)
+![Lowlight](https://img.shields.io/badge/Lowlight-3.3-yellow?style=for-the-badge)
+
+**Features:**
+
+![Languages](https://img.shields.io/badge/📝_50+_Languages-Supported-00c3ff?style=flat-square&labelColor=000000)
+![Collab](https://img.shields.io/badge/🔄_Real--time-Collaboration-bd00ff?style=flat-square&labelColor=000000)
+![Export](https://img.shields.io/badge/📤_Export-PDF/HTML/MD-00ff00?style=flat-square&labelColor=000000)
+
+</div>
+
+</details>
+
+<br>
 
 <!-- ScaleSite -->
+<details open>
+<summary>
+  <h3>🤖 SCALESITE AI - Google Gemini Platform</h3>
+</summary>
+
+<br>
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(0, 195, 255, 0.15), rgba(189, 0, 255, 0.15)); border: 3px solid #00c3ff; border-radius: 18px; padding: 35px; margin: 25px auto; width: 92%; box-shadow: 0 0 40px rgba(0, 195, 255, 0.4), inset 0 0 30px rgba(0, 195, 255, 0.1);">
-    <h3 style="color: #00c3ff; font-size: 32px; margin-bottom: 20px; text-shadow: 0 0 10px rgba(0, 195, 255, 0.8);">
-      🤖 SCALESITE AI
-      <img src="https://img.shields.io/badge/STATUS-AI_POWERED-00ff00?style=flat-square&labelColor=000000" style="margin-left: 15px;" />
-    </h3>
-    <p align="left" style="color: #e0e0e0; font-size: 17px; line-height: 2; margin: 20px 0;">
-      <strong style="color: #bd00ff; font-size: 19px;">🧠 GOOGLE GEMINI POWERED INTELLIGENT PLATFORM</strong><br>
-      Next-generation AI automation platform leveraging <strong style="color: #00c3ff;">Google's Gemini 1.5 Pro API</strong> for intelligent task automation.
-      Advanced conversational interface with context-aware responses maintaining <strong style="color: #bd00ff;">128k token context window</strong>,
-      multimodal content generation (text, images, code), intelligent workflow orchestration with chain-of-thought reasoning,
-      seamless integration with external APIs and databases, natural language to code generation supporting <strong style="color: #00c3ff;">15+ languages</strong>,
-      document analysis and summarization, automated content creation for blogs/social media,
-      and smart task scheduling with priority management. Built with stunning UI animations powered by Framer Motion
-      and fully responsive design optimized for desktop, tablet, and mobile. Perfect for AI-assisted development,
-      content creation, and business process automation.
-    </p>
-    <div align="left" style="margin-top: 25px;">
-      <img src="https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Gemini-1.30-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-12.23-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-Powered-brightgreen?style=for-the-badge&logo=openai&logoColor=white" />
-    </div>
-    <div align="left" style="margin-top: 20px;">
-      <img src="https://img.shields.io/badge/🧠_128k-Context_Window-00c3ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🎨_Multimodal-AI_Generation-bd00ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/⚡_15+_Languages-Code_Gen-00ff00?style=flat-square&labelColor=000000" />
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/STATUS-AI_POWERED-00ff00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CONTEXT-128K_TOKENS-bd00ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LANGUAGES-15+-00c3ff?style=for-the-badge&labelColor=000000" />
 </div>
+
+<br>
+
+**🧠 Next-Generation AI Automation Platform**
+
+AI automation platform leveraging **Google's Gemini 1.5 Pro API** for intelligent task automation. Advanced conversational interface with context-aware responses maintaining **128k token context window**, multimodal content generation (text, images, code), intelligent workflow orchestration, and natural language to code generation supporting **15+ programming languages**.
+
+**🎨 AI Capabilities:**
+- Document analysis and summarization
+- Automated content creation for blogs/social media
+- Smart task scheduling with priority management
+- Seamless API and database integration
+- Stunning UI animations with Framer Motion
+- Fully responsive design (desktop, tablet, mobile)
+
+<div align="center">
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-1.30-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-12.23-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-brightgreen?style=for-the-badge&logo=openai&logoColor=white)
+
+**Features:**
+
+![Context](https://img.shields.io/badge/🧠_128k-Context_Window-00c3ff?style=flat-square&labelColor=000000)
+![Multimodal](https://img.shields.io/badge/🎨_Multimodal-AI_Generation-bd00ff?style=flat-square&labelColor=000000)
+![CodeGen](https://img.shields.io/badge/⚡_15+_Languages-Code_Gen-00ff00?style=flat-square&labelColor=000000)
+
+</div>
+
+</details>
+
+<br>
 
 <!-- Wittenberg -->
+<details open>
+<summary>
+  <h3>🌐 WITTENBERG - Modern Web Framework</h3>
+</summary>
+
+<br>
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(189, 0, 255, 0.15), rgba(0, 195, 255, 0.15)); border: 3px solid #bd00ff; border-radius: 18px; padding: 35px; margin: 25px auto; width: 92%; box-shadow: 0 0 40px rgba(189, 0, 255, 0.4), inset 0 0 30px rgba(189, 0, 255, 0.1);">
-    <h3 style="color: #bd00ff; font-size: 32px; margin-bottom: 20px; text-shadow: 0 0 10px rgba(189, 0, 255, 0.8);">
-      🌐 WITTENBERG
-      <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00ff00?style=flat-square&labelColor=000000" style="margin-left: 15px;" />
-    </h3>
-    <p align="left" style="color: #e0e0e0; font-size: 17px; line-height: 2; margin: 20px 0;">
-      <strong style="color: #00c3ff; font-size: 19px;">🚀 MODERN WEB APPLICATION FRAMEWORK</strong><br>
-      High-performance web application built with cutting-edge technologies achieving <strong style="color: #bd00ff;">Lighthouse score of 95+</strong>.
-      Features buttery-smooth animations with Framer Motion delivering <strong style="color: #00c3ff;">60 FPS performance</strong>,
-      fully responsive design optimized for all screen sizes (mobile-first approach), efficient state management with React hooks and context,
-      blazing-fast page loads with <strong style="color: #bd00ff;">code splitting and lazy loading</strong> (< 2s TTI),
-      intelligent routing with React Router v7, API integration via Axios with request caching and retry logic.
-      Implements industry best practices for SEO optimization, WCAG 2.1 accessibility compliance,
-      and Core Web Vitals optimization. Production-ready architecture with comprehensive error boundaries,
-      logging, analytics integration, and automated performance monitoring.
-    </p>
-    <div align="left" style="margin-top: 25px;">
-      <img src="https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vite-7.2.4-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-12.23-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Axios-1.13-5A29E4?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/React_Router-7.11-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-    </div>
-    <div align="left" style="margin-top: 20px;">
-      <img src="https://img.shields.io/badge/⚡_95+-Lighthouse-00c3ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🎯_60_FPS-Performance-bd00ff?style=flat-square&labelColor=000000" />
-      <img src="https://img.shields.io/badge/🚀_<2s-TTI-00ff00?style=flat-square&labelColor=000000" />
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00ff00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LIGHTHOUSE-95+-00c3ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PERFORMANCE-60_FPS-bd00ff?style=for-the-badge&labelColor=000000" />
 </div>
 
-<br><br>
+<br>
+
+**🚀 High-Performance Web Application**
+
+High-performance web application achieving **Lighthouse score of 95+**. Features buttery-smooth animations with Framer Motion delivering **60 FPS performance**, fully responsive mobile-first design, efficient state management, and blazing-fast page loads with **code splitting and lazy loading** (< 2s TTI).
+
+**⚡ Performance Features:**
+- Intelligent routing with React Router v7
+- API integration with request caching
+- Industry best practices for SEO
+- WCAG 2.1 accessibility compliance
+- Core Web Vitals optimization
+- Comprehensive error boundaries
+- Analytics integration & monitoring
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-12.23-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1.13-5A29E4?style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-7.11-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+**Metrics:**
+
+![Lighthouse](https://img.shields.io/badge/⚡_95+-Lighthouse-00c3ff?style=flat-square&labelColor=000000)
+![FPS](https://img.shields.io/badge/🎯_60_FPS-Performance-bd00ff?style=flat-square&labelColor=000000)
+![TTI](https://img.shields.io/badge/🚀_<2s-TTI-00ff00?style=flat-square&labelColor=000000)
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+## <div align="center">📊 GITHUB STATISTICS</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bast1qn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&icon_color=bd00ff&text_color=ffffff&hide=issues&count_private=true&include_all_commits=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bast1qn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&text_color=ffffff&langs_count=8" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <h2 style="color: #00c3ff; letter-spacing: 5px; font-size: 36px; text-shadow: 0 0 20px rgba(0, 195, 255, 0.8);">
-    /// SYSTEM STATISTICS
-  </h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bast1qn&theme=tokyonight&hide_border=true&background=00000000&stroke=bd00ff&ring=00c3ff&fire=bd00ff&currStreakLabel=00c3ff&sideLabels=ffffff&dates=a9b1d6" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bast1qn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&icon_color=bd00ff&text_color=ffffff&hide=issues&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bast1qn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&text_color=ffffff&langs_count=8" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bast1qn&theme=tokyonight&hide_border=true&background=00000000&stroke=bd00ff&ring=00c3ff&fire=bd00ff&currStreakLabel=00c3ff&sideLabels=ffffff&dates=a9b1d6" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #bd00ff; letter-spacing: 3px; font-size: 24px;">CONTRIBUTION HEATMAP</h3>
-  <br>
+  <h3>📈 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bast1qn&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00c3ff&line=bd00ff&point=00c3ff&area=true&area_color=bd00ff" width="95%" />
 </div>
 
@@ -346,46 +442,36 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bast1qn&theme=tokyonight&hide_border=true" width="46%" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <h2 style="color: #00c3ff; letter-spacing: 4px; font-size: 32px;">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" />
-    CONTRIBUTION SNAKE
-  </h2>
-  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bast1qn&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bast1qn&theme=tokyonight&utcOffset=1&hide_border=true" width="46%" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
   <img src="https://raw.githubusercontent.com/bast1qn/bast1qn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br>
 
-<div align="center">
-  <h2 style="color: #bd00ff; letter-spacing: 5px; font-size: 36px;">
-    📊 ANALYTICS OVERVIEW
-  </h2>
-</div>
+## <div align="center">🏆 FEATURED REPOSITORY</div>
 
 <br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bast1qn&theme=tokyonight" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bast1qn&theme=tokyonight&utcOffset=1" width="30%" />
-</div>
-
-<br><br>
-
 <div align="center">
-  <h2 style="color: #00c3ff; letter-spacing: 4px; font-size: 28px;">
-    🏆 ACHIEVEMENTS UNLOCKED
-  </h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bast1qn&repo=nexus&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&icon_color=bd00ff&text_color=ffffff" />
+  <a href="https://github.com/bast1qn/nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bast1qn&repo=nexus&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c3ff&icon_color=bd00ff&text_color=ffffff" />
+  </a>
 </div>
 
 <br><br>
@@ -394,11 +480,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd00ff,00c3ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
-  <p style="color: #a9b1d6; font-size: 16px; margin-top: 20px;">
-    <strong style="color: #00c3ff;">Built with</strong> 💙 <strong style="color: #bd00ff;">by Bastian Giersch</strong>
-  </p>
-  <p style="color: #7a7a7a; font-size: 14px;">
-    © 2026 • Powered by Intel NUC Cluster • 99.9% Uptime Guaranteed
-  </p>
+
+  **Built with 💙 by Bastian Giersch**
+
+  *© 2026 • Powered by Intel NUC Cluster • 99.9% Uptime Guaranteed*
+
+  <br>
+
+  [![Website](https://img.shields.io/badge/Website-bastian--giersch.de-00c3ff?style=flat-square&logo=googlechrome&logoColor=white)](https://bastian-giersch.de)
+  [![RagePvP](https://img.shields.io/badge/Server-ragepvp.de-bd00ff?style=flat-square&logo=minecraft&logoColor=white)](https://ragepvp.de)
+
 </div>
