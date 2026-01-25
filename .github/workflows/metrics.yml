@@ -1,0 +1,138 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # ======================
+      # MAIN METRICS CARD
+      # ======================
+      - name: Generate Main Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bast1qn
+          template: classic
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_timezone: Europe/Berlin
+          config_display: large
+          config_padding: 0, 8 + 11%
+
+          # Achievements Plugin
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: B
+
+          # Languages Plugin
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          filename: metrics.svg
+          output_action: commit
+          committer_branch: main
+
+      # ======================
+      # ISOMETRIC CALENDAR
+      # ======================
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bast1qn
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          filename: metrics-isocalendar.svg
+          output_action: commit
+          committer_branch: main
+
+      # ======================
+      # CODING HABITS
+      # ======================
+      - name: Generate Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bast1qn
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
+
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+          filename: metrics-habits.svg
+          output_action: commit
+          committer_branch: main
+
+      # ======================
+      # ACHIEVEMENTS
+      # ======================
+      - name: Generate Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bast1qn
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          filename: metrics-achievements.svg
+          output_action: commit
+          committer_branch: main
+
+      # ======================
+      # NOTABLE CONTRIBUTIONS
+      # ======================
+      - name: Generate Notable Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bast1qn
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
+
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+
+          filename: metrics-notable.svg
+          output_action: commit
+          committer_branch: main
